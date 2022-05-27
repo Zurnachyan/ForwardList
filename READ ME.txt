@@ -1,1 +1,1 @@
-Here is the implementation of std::List․
+Here is the implementation of std::ForwardList․
